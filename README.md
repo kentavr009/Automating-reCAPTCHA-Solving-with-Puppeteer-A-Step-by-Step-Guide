@@ -1,4 +1,4 @@
-# Automating-reCAPTCHA-Solving-with-Puppeteer-A-Step-by-Step-Guide
+# Automating reCAPTCHA Solving with Puppeteer A Step by Step Guide
 <p>Introduction: In this guide, I explore the automation of reCAPTCHA solving in web scraping and testing scenarios using Puppeteer, a Node.js tool designed for browser automation. My focus is on the practical use of the <code>puppeteer-extra-plugin-stealth</code> plugin to seamlessly navigate through reCAPTCHA challenges.</p>
 
 > Note: I take <a href="https://2captcha.com/p/puppeteer-captcha-solver">this Guide</a> here.
